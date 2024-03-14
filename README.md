@@ -1,5 +1,5 @@
-## Prioritze Bot!
 ![Prioritze Bot!](images/logo.jpeg)
+## Welcome to Prioritze Bot!
 
 ## So you might be wondering, what is Prioritize Bot about?
 Many young adults and college students are often interrupted from their daily tasks by smartphone notifications with the increased reliance on mobile technologies for personal and academic purposes. It is important to understand how smartphone notifications and chat apps affect the productivity of students, sense of community, and overall perception of online interactions. There is currently no features that allow for nuanced control over notification management or an easy way to prioritize notifications. In many users’ experiences, when they receive a notification, they either immediately respond to it or read it and then leave it for later to respond if it is not urgent. This quarter, we explored how to improve interactions with notifications and chat experiences impact productivity and connectivity in young adults and created Prioritize Bot!
