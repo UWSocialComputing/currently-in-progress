@@ -8,7 +8,7 @@ Prioritize Bot is a Discord bot that helps users prioritize notifications based 
 
 Intrigued? Or even just slightly interested? Then come try out [Prioritize Bot](https://github.com/UWSocialComputing/Currently-in-progress-code)!
 
-Also here's a cool poster (not like we were the ones that made it or anything) about what Prioritize Bot is about as well!
+Also here's a cool poster (not like we made it or anything) about what Prioritize Bot is about as well!
 
 <img src="images/PrioritizeBotPoster.png" width="450" alt="Our Prioritize Bot Poster!">
 
